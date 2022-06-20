@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: keitaro/ckan
-  tag: 2.9.4
+  tag: 2.9.5
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
